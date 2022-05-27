@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It follows the 'Complete React Guide 2022' course on Academind:
+https://pro.academind.com/courses/enrolled/1366761
+
 ## Available Scripts
 
 In the project directory, you can run:
